@@ -1,0 +1,198 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f5f7fa;
+  padding: 40px;
+  font-family: Montserrat;
+}
+
+.wrapper {
+  display: flex;
+  background: #fff;
+}
+
+.sidebar {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: #1e2939;
+  width: 370px;
+}
+
+.my-photo {
+  width: 370px;
+}
+
+.contacts {
+  margin-top: 60px;
+  margin-left: 40px;
+}
+
+.contacts-title {
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.contacts-link {
+  color: #6c737c;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.contacts-type {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 10px;
+  color: #ffffff;
+}
+
+.tech {
+  margin-top: 60px;
+  margin-left: 40px;
+}
+
+.tech-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.tech-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-right: 10px;
+  color: #a2a7ae;
+}
+
+.tech-point {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 10px;
+  color: #e7640d;
+  margin-left: 15px;
+}
+
+.soft {
+  margin-top: 60px;
+  margin-left: 40px;
+}
+
+.soft-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.soft-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-right: 10px;
+  color: #a2a7ae;
+}
+
+.soft-point {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 10px;
+  color: #e7640d;
+  margin-left: 15px;
+}
+
+.main-info {
+  padding-top: 110px;
+  padding-bottom: 110px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.main-subtitle {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.main-title {
+  font-size: 45px;
+  font-weight: 700;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.main-text {
+  font-size: 14px;
+  line-height: 24px;
+  width: 415px;
+  color: #595959;
+  margin-bottom: 65px;
+}
+
+.projects {
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.pro_points {
+  color: #000000;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.pro_site {
+  color: #595959;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.edu {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.edu-universe {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #ff6b08;
+}
+
+.edu-sub-universe {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #7c604e;
+  margin-bottom: 15px;
+}
+
+.edu-text {
+  margin-bottom: 15px;
+  line-height: 24px;
+}
+
+.edu-sub-text {
+  color: #a8a8a8;
+  font-weight: 400;
+  font-size: 12px;
+}
+
