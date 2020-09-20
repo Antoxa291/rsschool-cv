@@ -24,3 +24,9 @@
 * Agile
 * Teamwork
 * GTD
+
+### My projects
+1. Responsive Web Design ............................... [ HTML5, CSS3 ]
+1. HTML, CSS, popup menu  ............................. [ HTML5, CSS3 ]
+1. Money calculator! ........................................... [ JavaScript ]
+1. link3 ...................................................................... [ React.js, Node.js ]
