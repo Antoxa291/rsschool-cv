@@ -9,3 +9,18 @@
 ###### Military institute of telecommunication and information technologies
 ###### The National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
 ###### Computer Science
+
+### Tech Skills
+* HTML5
+* CSS3
+* JavaScript
+* GIT
+* WebPack
+* React.js
+* Node.js
+
+### Soft Skills
+* Scrum
+* Agile
+* Teamwork
+* GTD
